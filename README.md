@@ -148,14 +148,13 @@ plt.title("Cropped Image")  # Set title
 plt.axis('off')
 ```
 ## Output
-<img width="442" height="512" alt="Screenshot 2026-10-29 101833" src="https://github.com/user-attachments/assets/112fba21-83d7-4f86-9202-5d900351e15e" />
-<img width="453" height="515" alt="Screenshot 2026-10-29 101840" src="https://github.com/user-attachments/assets/fb4dd01d-c1ee-4a4c-83b8-d89a0e042336" />
-<img width="777" height="567" alt="Screenshot 2026-10-29 101849" src="https://github.com/user-attachments/assets/2db5e2dc-56ec-4d40-b449-926f1b8565e8" />
-<img width="741" height="536" alt="Screenshot 2026-10-29 101856" src="https://github.com/user-attachments/assets/828a824b-61c7-46b2-9e0e-1d6d2c6095be" />
-<img width="742" height="558" alt="Screenshot 2026-10-29 101905" src="https://github.com/user-attachments/assets/1f9fce23-f351-4340-bc1a-2082914e941b" />
-<img width="757" height="567" alt="Screenshot 2026-10-29 101911" src="https://github.com/user-attachments/assets/b10bab23-9a13-441e-910d-d4d05c7f2c87" />
-<img width="842" height="417" alt="Screenshot 2026-10-29 101919" src="https://github.com/user-attachments/assets/47e54beb-30ce-4623-a14b-64636b9148df" />
-
+<img width="530" height="516" alt="Screenshot 2026-11-11 072410" src="https://github.com/user-attachments/assets/f9962e83-7098-4475-9fb4-6b3d93b6243f" />
+<img width="572" height="517" alt="Screenshot 2026-11-11 072418" src="https://github.com/user-attachments/assets/0f3446f8-61cb-438d-9a91-7f75b4db3687" />
+<img width="770" height="385" alt="Screenshot 2026-11-11 072424" src="https://github.com/user-attachments/assets/57c54de8-b745-48b6-9890-2a9d0ed27572" />
+<img width="553" height="517" alt="Screenshot 2026-11-11 072431" src="https://github.com/user-attachments/assets/1d63afaf-69cd-4595-b9fa-b64f27502b2b" />
+<img width="548" height="516" alt="Screenshot 2026-11-11 072438" src="https://github.com/user-attachments/assets/45d5305f-237c-404c-b7f4-e462cf7572d4" />
+<img width="490" height="511" alt="Screenshot 2026-11-11 072446" src="https://github.com/user-attachments/assets/873f00d0-4ce5-43d6-b33f-6cc3598fbe70" />
+<img width="815" height="498" alt="Screenshot 2026-11-11 072455" src="https://github.com/user-attachments/assets/5f1b0b30-862c-49c3-9487-7f5a53a80cc8" />
 
 
 
